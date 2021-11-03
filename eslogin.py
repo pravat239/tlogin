@@ -15,7 +15,7 @@ def function():
     print("     ███████╗╚██████╔╝╚██████╔╝██║██║ ╚████║")
     print("     ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝")
     print("\033[91m    _________________________________________\033[0m")
-    os.system("espeak -a 300 'welcome to t login panel version 1.0'")
+    os.system("espeak -a 300 'welcome to t login panel version 2.0'")
     print("")
 function()
 while(1):
