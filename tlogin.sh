@@ -1,8 +1,4 @@
-raw.githubusercontent.com/1Tech-X/tlogin/master/tlogin.sh
-More options
-14 open tabs, tap to switch tabs
-Home
-Connection is secure
+
 #!/bin/bash
 #created by tech-x
 #www.mrtechx.com
@@ -177,9 +173,8 @@ locktype
 printf "${red}[NOTE]\n${green}THE LOCK YOU SET IS FOR ONE TIME ONLY.\nIF YOU WANT TO SET ANOTHER LOCK TYPE.\nYOU HAVE REMOVE THE PREVIOUS LOCK\nOTHERWISE BOTH LOCK IS SET ON YOUR TERMINAL\n${yellow}USE removelock.sh SCRIPT TO REMOVE LOCK${reset}\n"
 line
 echo ""
-printf "${red}YouTube ${blue}https://www.youtube.com/channel/UCnPFWOidyGah_idNVpOftEQ${reset}\n"
-printf "${red}Website ${blue}https://www.mrtechx.com${reset}\n"
-printf "${red}Instgram ${blue}https://www.instagram.com/t_e_c_h_x/${reset}\n"
+printf "${red}YouTube ${blue}hacking by pravat${reset}\n"
+printf "${red}Instgram ${blue} coding by pravat${reset}\n"
 line
 echo ""
 line
